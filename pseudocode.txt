@@ -1,0 +1,25 @@
+Eat
+
+
+00.01-11.59 : breakfast
+12.00-17.59 : lunch
+18.00-24.00 : dinner
+
+Pseudo code 1
+1. Hungry at 08.00
+2. See what time did you felt hungry
+3. If you hungry around 00.01-11.59
+4. 	Breakfast
+5. Else if you hungry around 12.00-17.59
+6.	Lunch
+7. Else if you hungry 18.00-24.00
+8. 	Dinner
+9. Quit
+
+
+
+Pseudo code 2
+1. Hungry at 08.00
+2. If "you hungry between 00.01-11.59"
+3.	Breakfast
+4. Quit
